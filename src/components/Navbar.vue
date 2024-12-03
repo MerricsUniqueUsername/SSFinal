@@ -45,6 +45,7 @@ export default {
       menuItems: [
         { label: 'Home', path: 'home' },
         { label: 'FAQ', path: 'faq' },
+        { label: 'Compare', path: 'compare' },
         { label: 'Sources', path: 'sources' },
       ]
     }
