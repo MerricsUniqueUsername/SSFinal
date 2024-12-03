@@ -72,7 +72,6 @@ export default {
 </script>
 
 <style scoped>
-
 .page {
   display: flex;
   flex-direction: column;
@@ -108,5 +107,4 @@ li {
 .q {
   border-top: 1px solid rgba(255, 255, 255, 0.151);
 }
-
 </style>

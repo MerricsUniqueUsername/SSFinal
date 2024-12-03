@@ -46,6 +46,25 @@
       </div>
     </div>
 
+    <div class="intro slide" style="background-color: white; height: 100vh">
+      <div class="row">
+        <div class="cell" style="width: 100%; color: black; flex-direction: column;">
+          <h1 style="margin-top: 70px; font-size: 3.5vw; color: black;">Introduction</h1>
+          <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px; margin-bottom: 8px">
+            The Great Lakes region is home to numerous tribal nations, each with unique challenges and opportunities related to electric vehicle charging infrastructure. In this project, we explore electric vehicle charging infrastructure. This project explores:
+          </p>
+          <ul style="text-align: left; width: 100%; margin: 6px; margin-left: 35px; font-size: 18px; opacity: 0.7;">
+            <li>How the development of EV vehicles is influenced by politics</li>
+            <li>How EV technology can potentially be superior to gas-powered cars for the environment in some ways</li>
+            <li>How EV infrastructure can support economic development, promote energy independence, and impact inequality</li>
+            <li>The environental impact of gas-powered cars and electric cars</li>
+          </ul>
+          <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;">
+          </p>
+        </div>
+      </div>
+    </div>
+
 
     <div class="perks slide" style="background-color: white; height: 100vh">
       <div class="row">
@@ -92,7 +111,7 @@
             </svg>
           </h1>
           <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;">
-            Tribal Nations have many different options to get power for EV charging stations. There are organizations that help Tribal Nations get low cost and renewable energy that can be used for anything, including electric vehicles. One example of this would be NCAI.Org which has worked with Tribal communities to integrate renewable energy and electric vehicles.
+            Tribal Nations have many different options to get power for EV charging stations. There are organizations that help Tribal Nations get low cost and renewable energy that can be used for anything, including electric vehicles. One example of this would be <a href="https://www.ncai.org/" target="_blank">NCAI.org</a> which has worked with Tribal communities to integrate renewable energy and electric vehicles.
           </p>
         </div>
       </div>
@@ -119,7 +138,7 @@
         <div class="cell" style="width: 100%; color: black; flex-direction: column;">
           <h1 style="margin-top: 70px; font-size: 2.5vw; color: black;">The Document National Electric Vehicle Initiative for Tribal Nations</h1>
           <p style="font-size: 20px; opacity: 0.7; margin-bottom: 70px;">
-            The document National Electric Vehicle (EV) Initiative for Tribal Nations, published by Indian Affairs, outlines a federal initiative to support the adoption of electric vehicles and charging infrastructure within tribal communities across the United States. The initiative aims to reduce emissions, promote sustainable energy, and improve transportation access for tribal nations, aligning with environmental and economic development goals. It addresses funding sources, technical assistance, and partnerships between federal agencies and tribal governments, acknowledging the unique challenges these communities face, such as limited infrastructure and resources. This initiative represents a step toward equitable access to clean energy and sustainable transportation solutions in tribal areas.
+            The document National Electric Vehicle Initiative for Tribal Nations, published by Indian Affairs, outlines a federal initiative to support the adoption of electric vehicles and charging infrastructure within tribal communities across the United States. The initiative aims to reduce emissions, promote sustainable energy, and improve transportation access for tribal nations, aligning with environmental and economic development goals. It addresses funding sources, technical assistance, and partnerships between federal agencies and tribal governments, acknowledging the unique challenges these communities face, such as limited infrastructure and resources. This initiative represents a step toward equitable access to clean energy and sustainable transportation solutions in tribal areas.
           </p>
           <p style="font-size: 18px; opacity: 0.7; margin-bottom: 70px;">
             <strong>Explanation: </strong> The initiative helps with funding and kickstarting the deployment of EV infrastructure, when otherwise they face problems with funding and the planning of these stations. Tribal nations being able to implement the chargers helps them promote proactive climate change actions and take steps forward to a better climate. Another way this helps is it empowers these because they get to help build and plan these changes as well 

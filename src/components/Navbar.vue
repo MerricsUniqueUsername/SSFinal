@@ -44,7 +44,6 @@ export default {
       isMenuOpen: false,
       menuItems: [
         { label: 'Home', path: 'home' },
-        { label: 'Map', path: 'map' },
         { label: 'FAQ', path: 'faq' },
         { label: 'Sources', path: 'sources' },
       ]
