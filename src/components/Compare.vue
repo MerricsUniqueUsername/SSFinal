@@ -14,7 +14,7 @@
     <p><strong>Gas emissions (tons): </strong>{{ gasEmissions }}</p>
     <p><strong>Electric emissions (tons): </strong>{{ electricEmissions }}</p>
     <br>
-    <p style="font-size: 1.8vw"><strong>Gas cars save: </strong>{{ parseInt((gasEmissions - electricEmissions) * 100) / 100 }} tons</p>
+    <p style="font-size: 1.8vw"><strong>Electric cars save: </strong>{{ parseInt((gasEmissions - electricEmissions) * 100) / 100 }} tons</p>
   </div>
 </template>
 

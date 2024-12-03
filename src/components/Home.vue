@@ -9,10 +9,10 @@
 
   <div class="top" style="display: block; position: relative; top: 120px;">
 
-    <div class="row">
+    <div class="row" style="height: 78vh">
       <div class="cell" style="flex-direction: column;">
-        <h1 style="margin: 0; margin-top: 35px;">Driving Change, Empowering Tribal Nations</h1>
-        <h2 style="margin: 0; margin-top: 8px; left: 0;">Paving the Way to Clean Energy and Stronger Communities</h2>
+        <h1 style="margin: 0; margin-top: 35px;">Electric vehicles and tribal nations</h1>
+        <h2 style="margin: 0; margin-top: 8px; left: 0;">Researching benefits and challenges of bringing electric vehicles to Great Lakes tribal nations</h2>
         <div class="button" style="margin-top: 80px; font-size: 16px; width: 160px; align-self: start;" @click="goToProblemPage">Explore</div>
       </div>
       <div class="cell">
