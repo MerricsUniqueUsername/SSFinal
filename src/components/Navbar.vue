@@ -12,7 +12,7 @@
       <!-- Desktop Navigation -->
       <div class="desktop-nav">
         <div class="navElement" v-for="item in menuItems" :key="item.label">
-          <a :href="item.path">{{ item.label }}</a>
+          <a @click="$emit('changePage', item.path)">{{ item.label }}</a>
         </div>
       </div>
 
@@ -43,10 +43,10 @@ export default {
     return {
       isMenuOpen: false,
       menuItems: [
-        { label: 'Home', path: '/' },
-        { label: 'Map', path: '/' },
-        { label: 'FAQ', path: '/' },
-        { label: 'Sources', path: '/' },
+        { label: 'Home', path: 'home' },
+        { label: 'Map', path: 'map' },
+        { label: 'FAQ', path: 'faq' },
+        { label: 'Sources', path: 'sources' },
       ]
     }
   },
@@ -97,6 +97,7 @@ a {
   padding: 3px 8px;
   border-radius: 50px;
   font-weight: 300;
+  cursor: pointer;
 }
 
 a:hover {

@@ -268,7 +268,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
   .windmill {
     position: absolute;
     /* Scale up */
