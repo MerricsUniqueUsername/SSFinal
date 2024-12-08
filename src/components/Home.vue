@@ -11,8 +11,8 @@
 
     <div class="row" style="height: 78vh">
       <div class="cell" style="flex-direction: column;">
-        <h1 style="margin: 0; margin-top: 35px;">Electric vehicles and tribal nations</h1>
-        <h2 style="margin: 0; margin-top: 8px; left: 0;">Researching benefits and challenges of bringing electric vehicles to Great Lakes tribal nations</h2>
+        <h1 style="margin: 0; margin-top: 35px;">Electric vehicles and Tribal Nations</h1>
+        <h2 style="margin: 0; margin-top: 8px; left: 0;">Researching benefits and challenges of bringing electric vehicles to Great Lakes Tribal Nations</h2>
         <div class="button" style="margin-top: 80px; font-size: 16px; width: 160px; align-self: start;" @click="goToProblemPage">Explore</div>
       </div>
       <div class="cell">
@@ -33,7 +33,7 @@
         <div class="cell" style="width: 70%; color: black; flex-direction: column;">
           <h1 style="margin-top: 70px; font-size: 3.5vw; color: black;">Problem Statement</h1>
           <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;">
-            Throughout this project, we will be looking into the opportunities and barriers associated with bringing electric vehicle charging infrastructure to Tribal Nations in the Great Lakes region. By examining the specific needs of these communities, we can identify how EV infrastructure can support economic development, promote energy independence, and impact inequality. However, we must also address the significant regulatory and geographic challenges that may hinder EV implementation. Ultimately, this project will seek collaboration and innovation that can lead to access to EV technology while ensuring to honor of the values of tribal nations.
+            Throughout this project, we will be looking into the opportunities and barriers associated with bringing electric vehicle charging infrastructure to Tribal Nations in the Great Lakes region. By examining the specific needs of these communities, we can identify how EV infrastructure can support economic development, promote energy independence, and impact inequality. However, we must also address the significant regulatory and geographic challenges that may hinder EV implementation. Ultimately, this project will seek collaboration and innovation that can lead to access to EV technology while ensuring to honor of the values of Tribal Nations.
           </p>
         </div>
 
@@ -51,7 +51,7 @@
         <div class="cell" style="width: 100%; color: black; flex-direction: column;">
           <h1 style="margin-top: 70px; font-size: 3.5vw; color: black;">Introduction</h1>
           <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px; margin-bottom: 8px">
-            The Great Lakes region is home to numerous tribal nations, each with unique challenges and opportunities related to electric vehicle charging infrastructure. In this project, we explore electric vehicle charging infrastructure. This project explores:
+            The Great Lakes region is home to numerous Tribal Nations, each with unique challenges and opportunities related to electric vehicle charging infrastructure. In this project, we explore electric vehicle charging infrastructure. This project explores:
           </p>
           <ul style="text-align: left; width: 100%; margin: 6px; margin-left: 35px; font-size: 18px; opacity: 0.7;">
             <li>How the development of EV vehicles is influenced by politics</li>
@@ -138,10 +138,10 @@
         <div class="cell" style="width: 100%; color: black; flex-direction: column;">
           <h1 style="margin-top: 70px; font-size: 2.5vw; color: black;">The Document National Electric Vehicle Initiative for Tribal Nations</h1>
           <p style="font-size: 20px; opacity: 0.7; margin-bottom: 70px;">
-            The document National Electric Vehicle Initiative for Tribal Nations, published by Indian Affairs, outlines a federal initiative to support the adoption of electric vehicles and charging infrastructure within tribal communities across the United States. The initiative aims to reduce emissions, promote sustainable energy, and improve transportation access for tribal nations, aligning with environmental and economic development goals. It addresses funding sources, technical assistance, and partnerships between federal agencies and tribal governments, acknowledging the unique challenges these communities face, such as limited infrastructure and resources. This initiative represents a step toward equitable access to clean energy and sustainable transportation solutions in tribal areas.
+            The document National Electric Vehicle Initiative for Tribal Nations, published by Indian Affairs, outlines a federal initiative to support the adoption of electric vehicles and charging infrastructure within tribal communities across the United States. The initiative aims to reduce emissions, promote sustainable energy, and improve transportation access for Tribal Nations, aligning with environmental and economic development goals. It addresses funding sources, technical assistance, and partnerships between federal agencies and tribal governments, acknowledging the unique challenges these communities face, such as limited infrastructure and resources. This initiative represents a step toward equitable access to clean energy and sustainable transportation solutions in tribal areas.
           </p>
           <p style="font-size: 18px; opacity: 0.7; margin-bottom: 70px;">
-            <strong>Explanation: </strong> The initiative helps with funding and kickstarting the deployment of EV infrastructure, when otherwise they face problems with funding and the planning of these stations. Tribal nations being able to implement the chargers helps them promote proactive climate change actions and take steps forward to a better climate. Another way this helps is it empowers these because they get to help build and plan these changes as well 
+            <strong>Explanation: </strong> The initiative helps with funding and kickstarting the deployment of EV infrastructure, when otherwise they face problems with funding and the planning of these stations. Tribal Nations being able to implement the chargers helps them promote proactive climate change actions and take steps forward to a better climate. Another way this helps is it empowers these because they get to help build and plan these changes as well 
           </p>
         </div>
       </div>
