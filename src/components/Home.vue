@@ -75,9 +75,10 @@
               <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0M2.04 4.326c.325 1.329 2.532 2.54 3.717 3.19.48.263.793.434.743.484q-.121.12-.242.234c-.416.396-.787.749-.758 1.266.035.634.618.824 1.214 1.017.577.188 1.168.38 1.286.983.082.417-.075.988-.22 1.52-.215.782-.406 1.48.22 1.48 1.5-.5 3.798-3.186 4-5 .138-1.243-2-2-3.5-2.5-.478-.16-.755.081-.99.284-.172.15-.322.279-.51.216-.445-.148-2.5-2-1.5-2.5.78-.39.952-.171 1.227.182.078.099.163.208.273.318.609.304.662-.132.723-.633.039-.322.081-.671.277-.867.434-.434 1.265-.791 2.028-1.12.712-.306 1.365-.587 1.579-.88A7 7 0 1 1 2.04 4.327Z"/>
             </svg>
           </h1>
-          <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;">
+          <p style="font-size: 24px; opacity: 0.7; margin-bottom: 15px;">
             The benefits of building a network for EVs in rural and tribal areas are countless. The communities in these areas will experience economic benefits, keep a healthier environment, and allow access to better transportation for the citizens of these rural communities. Economically, EVs will allow for overall cheaper transportation, create more jobs in these areas, and increase tourism. These things will help lead to a rise in the economy of rural and tribal communities that establish an EV network. Looking at the environment, EVs will protect natural resources while also combating pollution and climate change in these communities. On top of these economic and environmental pros, EVs will also serve as a more reliable form of transportation in these rural areas with the implementation of an EV network.
           </p>
+          <a style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;" href="https://cleantechnica.com/2024/07/03/lets-put-an-end-to-the-myth-that-electric-cars-are-not-suitable-for-rural-drivers/" target="_blank">More reading</a>
         </div>
       </div>
     </div>
@@ -92,7 +93,7 @@
             </svg>
           </h1>
           <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;">
-            Electric vehicles (EVs) are an environmentally friendly alternative to gas-powered cars, with significant benefits in reducing greenhouse gas emissions and improving public health. While their manufacturing produces higher emissions due to battery production, EVs offset this within 18 months of driving, ultimately having a smaller carbon footprint—even when charged on less clean energy grids. They are also more cost-effective over time; despite a higher initial purchase price, federal and state incentives, lower fuel costs, and reduced maintenance expenses lead to lifetime savings of $7,000 to $11,000 compared to gas vehicles. By cutting emissions and saving money, EVs offer a sustainable and economical solution to modern transportation needs.
+            Electric vehicles (EVs) are an environmentally friendly alternative to gas-powered cars, with significant benefits in reducing greenhouse gas emissions and improving public health. While their manufacturing produces higher emissions due to battery production, EVs offset this within <a href="https://earthjustice.org/feature/electric-vehicles-explainer" target="_blank">18 months</a> of driving, ultimately having a smaller carbon footprint—even when charged on less clean energy grids. They are also more cost-effective over time; despite a higher initial purchase price, federal and state incentives, lower fuel costs, and reduced maintenance expenses lead to lifetime savings of <a href="https://www.nrdc.org/stories/electric-vs-gas-cars-it-cheaper-drive-ev" target="_blank">$7,000 to $11,000</a> compared to gas vehicles. By cutting emissions and saving money, EVs offer a sustainable and economical solution to modern transportation needs.
           </p>
         </div>
       </div>
@@ -126,9 +127,10 @@
               <path fill-rule="evenodd" d="M8 1a3 3 0 1 0 0 6 3 3 0 0 0 0-6M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.3 1.3 0 0 0-.37.265.3.3 0 0 0-.057.09V14l.002.008.016.033a.6.6 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.6.6 0 0 0 .146-.15l.015-.033L12 14v-.004a.3.3 0 0 0-.057-.09 1.3 1.3 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465s-2.462-.172-3.34-.465c-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411"/>
             </svg>
           </h1>
-          <p style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;">
-            Despite the state's network of 1,200 charging stations, only 29 are located in the Upper Peninsula (U.P.), leaving rural areas underserved and creating "charging deserts." This highlights a pressing need for greater charging access, particularly for local businesses and tribal communities. To facilitate this transition, it is crucial to provide resources and technical assistance to Tribal Nations, empowering them to adopt electric vehicles (EVs) and clean energy solutions. However, EV adoption in these regions faces significant challenges. Vast distances between cities and towns with little infrastructure make it difficult for tribal communities to potentially integrate EV technology. Additionally, cold weather reduces battery performance, slows charging times, and decreases driving range, all of which complicate the efficient operation of EVs during winter months.
+          <p style="font-size: 24px; opacity: 0.7; margin-bottom: 15;">
+            Despite the state's network of <a href="https://uppermichiganssource.com/2023/08/01/traveling-public-needs-charging-infrastructure-upper-michigan-lacks-ev-charging-stations/" target="_blank"> 1,200 charging stations, only 29 are located in the Upper Peninsula (U.P.)</a>, leaving rural areas underserved and creating "charging deserts." This highlights a pressing need for greater charging access, particularly for local businesses and tribal communities. To facilitate this transition, it is crucial to provide resources and technical assistance to Tribal Nations, empowering them to adopt electric vehicles (EVs) and clean energy solutions. However, EV adoption in these regions faces significant challenges. Vast distances between cities and towns with little infrastructure make it difficult for tribal communities to potentially integrate EV technology. Additionally, cold weather reduces battery performance, slows charging times, and decreases driving range, all of which complicate the efficient operation of EVs during winter months.
           </p>
+          <a style="font-size: 24px; opacity: 0.7; margin-bottom: 70px;" href="https://www.usatoday.com/story/graphics/2024/01/18/evs-cold-weather-how-to-charge-help/72254406007/" target="_blank">More reading</a>
         </div>
       </div>
     </div>
@@ -136,7 +138,11 @@
     <div class="iniative slide" style="background-color: white; height: 100vh">
       <div class="row">
         <div class="cell" style="width: 100%; color: black; flex-direction: column;">
-          <h1 style="margin-top: 70px; font-size: 2.5vw; color: black;">The Document National Electric Vehicle Initiative for Tribal Nations</h1>
+          <h1 style="margin-top: 70px; font-size: 2.5vw; color: black;">
+            <a href="https://www.bia.gov/sites/default/files/dup/inline-files/ev_initiative_for_tribal_nations.pdf ">
+            The Document National Electric Vehicle Initiative for Tribal Nations
+            </a>
+          </h1>
           <p style="font-size: 20px; opacity: 0.7; margin-bottom: 70px;">
             The document National Electric Vehicle Initiative for Tribal Nations, published by Indian Affairs, outlines a federal initiative to support the adoption of electric vehicles and charging infrastructure within tribal communities across the United States. The initiative aims to reduce emissions, promote sustainable energy, and improve transportation access for Tribal Nations, aligning with environmental and economic development goals. It addresses funding sources, technical assistance, and partnerships between federal agencies and tribal governments, acknowledging the unique challenges these communities face, such as limited infrastructure and resources. This initiative represents a step toward equitable access to clean energy and sustainable transportation solutions in tribal areas.
           </p>
@@ -268,7 +274,7 @@ export default {
     this.setupScrollTracking();
 
     // Scroll event listener
-      window.addEventListener('scroll', function() {
+    window.addEventListener('scroll', function() {
       const scrollPosition = window.scrollY;
       const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
       const scrollPercentage = (scrollPosition / documentHeight) * 100;
